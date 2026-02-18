@@ -1,4 +1,9 @@
 html,body{
     
     background-color: red;
+
+}
+@font-face {
+    font-family: f;
+    src:url(./Buttermilk.ttf);
 }
